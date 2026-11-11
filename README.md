@@ -23,18 +23,6 @@ This is my personal portfolio website, designed to introduce who I am, highlight
 - Contact information
 - Mobile-friendly navigation
 
-## Project Structure
-
-```text
-portfolio/
-│
-├── index.html
-├── style.css
-├── script.js
-├── images/
-└── README.md
-```
-
 ## Getting Started
 
 To run this project locally:
