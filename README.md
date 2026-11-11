@@ -53,10 +53,4 @@ This project represents my progress in learning web development and my commitmen
 
 ## Contact
 
-**Allan Gitau**
-
-- GitHub: https://github.com/YOUR_USERNAME
-
----
-
 If you find this project interesting, feel free to explore the code and follow my development journey.
